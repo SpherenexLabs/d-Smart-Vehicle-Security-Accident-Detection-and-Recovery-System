@@ -16,7 +16,7 @@ import LiveMap from "./components/LiveMap";
 import RegisterModal from "./components/RegisterModal";
 import AlertPopup from "./components/AlertPopup";
 
-const ROOT_PATH = "Smart_Vehicle_Security";
+const ROOT_PATH = "Vehicle_Security";
 
 const defaultData = {
   Accident: 0,
